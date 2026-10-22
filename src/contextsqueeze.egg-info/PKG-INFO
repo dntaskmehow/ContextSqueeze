@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: contextsqueeze
+Version: 1.0.0
+Summary: MCP code-execution and context window optimization engine.
+Author: Professor Bug & Blackbox R&D
+License: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: pydantic>=2.0.0
+Requires-Dist: rich>=13.0.0
+
+# ContextSqueeze ??

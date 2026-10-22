@@ -1,0 +1,2 @@
+[console_scripts]
+contextsqueeze = contextsqueeze.cli:main

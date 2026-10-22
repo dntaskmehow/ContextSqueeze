@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/contextsqueeze/__init__.py
+src/contextsqueeze/cli.py
+src/contextsqueeze/optimizer.py
+src/contextsqueeze.egg-info/PKG-INFO
+src/contextsqueeze.egg-info/SOURCES.txt
+src/contextsqueeze.egg-info/dependency_links.txt
+src/contextsqueeze.egg-info/entry_points.txt
+src/contextsqueeze.egg-info/requires.txt
+src/contextsqueeze.egg-info/top_level.txt
